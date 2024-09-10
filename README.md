@@ -10,7 +10,7 @@ Download the zip folder to find the instructions document and sample files
 ## Usage Examples
 
 ## Authors
-<pre>Cao Jinming, Jia Wei, Jermaine</pre>
+<pre></pre>
 
 ## Acknowledgement
 <pre>Official GitHub Documentation, Ellipsis</pre>
